@@ -1,4 +1,20 @@
+.img{
+  align-items:center;
+  margin-left: 40%;
+  padding-top: 5%;
+}
+.tt{
+  color:#3C486B;
+  font-size: 50px;
+}
+.level{
+  color:black;
+  padding-top: 2%;
 
+}
+.body1{
+  background-color: #917FB3;
+}
    body{
      background-color:#EAEAEA;
    }
